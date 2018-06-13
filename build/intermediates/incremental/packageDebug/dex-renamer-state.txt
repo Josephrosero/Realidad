@@ -1,0 +1,7 @@
+#Tue Jun 12 23:15:23 COT 2018
+base.0=C\:\\Users\\ASUS\\Desktop\\Nueva carpeta (3)\\Realidad\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b9a3223b8c6ff8b5797c83e729b9fdf762bb7dda
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\ASUS\\Desktop\\Nueva carpeta (3)\\Realidad\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_69bb4fec07a262538ebe1a243bf30f41028276fb\\classes.dex
+base.1=C\:\\Users\\ASUS\\Desktop\\Nueva carpeta (3)\\Realidad\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_69bb4fec07a262538ebe1a243bf30f41028276fb
+file.0=C\:\\Users\\ASUS\\Desktop\\Nueva carpeta (3)\\Realidad\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b9a3223b8c6ff8b5797c83e729b9fdf762bb7dda\\classes.dex

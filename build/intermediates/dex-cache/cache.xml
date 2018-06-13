@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\df155b231c5e65d313e52ebd0d2dd2fe8569a1f5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e29373b760f2999cd878625efe4641edd156a3d0">
+        <dex dex="C:\Users\ASUS\Desktop\Nueva carpeta (3)\Realidad\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c80792d1b880c2c9df00f6cff84604a163a9e11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\Desktop\Nueva carpeta (3)\Realidad\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\ASUS\Desktop\Nueva carpeta (3)\Realidad\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_69bb4fec07a262538ebe1a243bf30f41028276fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\Desktop\Nueva carpeta (3)\Realidad\libs\unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c6eace347a88d2038dc7d81c32c6f9612fc663cb">
+        <dex dex="C:\Users\ASUS\Desktop\Nueva carpeta (3)\Realidad\build\intermediates\transforms\dex\debug\folders\1000\2\unity-classes_a21d53cfc30a5f244c900f6d966cc8d385ab9175\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\df155b231c5e65d313e52ebd0d2dd2fe8569a1f5\output\jars\libs\VuforiaUnityPlayer.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1e5c98f1d2f1973f9a08b7849f319bcb135fe8c3">
+        <dex dex="C:\Users\ASUS\Desktop\Nueva carpeta (3)\Realidad\build\intermediates\transforms\dex\debug\folders\1000\10\VuforiaUnityPlayer_c411123ea046de86789e9265b1ab421b6da576ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\df155b231c5e65d313e52ebd0d2dd2fe8569a1f5\output\jars\libs\Vuforia.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6051ae41196664b2d1144cd0f1e5626d09390520">
+        <dex dex="C:\Users\ASUS\Desktop\Nueva carpeta (3)\Realidad\build\intermediates\transforms\dex\debug\folders\1000\10\Vuforia_c8266d4ded446241800e4ace80c43a378b35fa76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\Desktop\Nueva carpeta (3)\Realidad\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9d7591b80539a04556750e30e2d1f99a58665557">
+        <dex dex="C:\Users\ASUS\Desktop\Nueva carpeta (3)\Realidad\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b9a3223b8c6ff8b5797c83e729b9fdf762bb7dda\classes.dex" />
+    </item>
+
+</items>
