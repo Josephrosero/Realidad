@@ -1,4 +1,4 @@
-#Tue Jun 12 23:15:23 COT 2018
+#Tue Jun 12 23:53:43 COT 2018
 base.0=C\:\\Users\\ASUS\\Desktop\\Nueva carpeta (3)\\Realidad\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b9a3223b8c6ff8b5797c83e729b9fdf762bb7dda
 renamed.1=classes.dex
 renamed.0=classes2.dex
